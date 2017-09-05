@@ -1,7 +1,7 @@
 body {
     padding: 30px 100px;
     font-family: 'Prompt', sans-serif;
-    background-color: lightskyblue;
+    background-color: #616567;
 }
 
 h1{font-family: 'Pridi', serif;
@@ -28,7 +28,7 @@ h1{font-family: 'Pridi', serif;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     width: 20%;
-    margin: 30px;
+    margin: 0px;
     background-color: white;
 }
 
