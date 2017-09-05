@@ -4,6 +4,10 @@ body {
     background-color: lightskyblue;
 }
 
+h1{font-family: 'Pridi', serif;
+    
+}
+
 .img-circle {
     border-radius: 50%;
     width: 200px;
